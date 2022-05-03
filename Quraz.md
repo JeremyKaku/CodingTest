@@ -6,8 +6,11 @@ leap year =>1
 
 exmple:
 1899 => output: 19,-1
+
 2000 =>  output: 20,1
+
 999 =>  output:-1
+
 1000 => output: 10,-1
 
 
