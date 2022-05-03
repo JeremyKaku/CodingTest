@@ -1,20 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-
-class Result
-{
-    static void Main()
-    {
-        string i = "10-08-2020";
-
-        var output = FindDayFromDate(i);
-
-        Console.WriteLine(output);
-
-    }
-
+'''C#
     public static string FindDayFromDate(string date)
     {
         var arr = date.Split("-");
@@ -57,4 +41,5 @@ class Result
 
         return result;
     }
-}
+    '''
+
