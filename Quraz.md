@@ -1,4 +1,4 @@
-'''C#
+
 
     public static string FindDayFromDate(string date)
     {
@@ -42,5 +42,5 @@
 
         return result;
     }
-    '''
+
 
