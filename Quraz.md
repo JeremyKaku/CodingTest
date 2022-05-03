@@ -1,4 +1,5 @@
-'''
+'''C#
+
     public static string FindDayFromDate(string date)
     {
         var arr = date.Split("-");
