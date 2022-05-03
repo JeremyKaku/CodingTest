@@ -1,6 +1,9 @@
 1. coding test:
+
 less than 1000 => -1
+
 not leap year => -1
+
 leap year =>1
 
 exmple:
